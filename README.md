@@ -1,2 +1,2 @@
 # this is my Local Repo
-this Git HUB Practicec
+this Git HUB Practice
